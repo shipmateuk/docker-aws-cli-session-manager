@@ -66,7 +66,7 @@ script:
 
 ```sh
 curl -sSL --fail \
-  https://raw.githubusercontent.com/KineticCafe/docker-aws-cli-session-manager/main/install |
+  https://raw.githubusercontent.com/shipmateuk/docker-aws-cli-session-manager/refs/heads/main/install |
   bash -s -- ~/.local/bin
 ```
 
