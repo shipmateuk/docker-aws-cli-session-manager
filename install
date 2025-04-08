@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-readonly url=https://raw.githubusercontent.com/KineticCafe/aws-cli-session-manager/main/aws-cli-session-manager
+readonly url=https://raw.githubusercontent.com/shipmateuk/docker-aws-cli-session-manager/refs/heads/main/aws-cli-session-manager
 declare script
 script="$(basename "${url}")"
 readonly script
